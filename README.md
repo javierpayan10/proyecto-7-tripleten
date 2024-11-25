@@ -15,8 +15,4 @@ Este proyecto consiste en una aplicación web interactiva creada con **Streamlit
 - **Gráficos dinámicos**: Los gráficos se generan de manera interactiva utilizando la biblioteca **Plotly**.
 - **Aplicación accesible públicamente**: Se puede implementar en la nube con Render para acceso universal.
 
-# URL de la aplicación en Render 
-  Local URL: http://localhost:8501
-  Network URL: http://10.204.245.182:8501
-  External URL: http://34.211.200.85:8501
 
