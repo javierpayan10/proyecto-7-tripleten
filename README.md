@@ -16,3 +16,4 @@ Este proyecto consiste en una aplicación web interactiva creada con **Streamlit
 - **Aplicación accesible públicamente**: Se puede implementar en la nube con Render para acceso universal.
 
 
+
