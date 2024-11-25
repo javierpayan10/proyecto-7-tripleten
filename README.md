@@ -15,5 +15,9 @@ Este proyecto consiste en una aplicación web interactiva creada con **Streamlit
 - **Gráficos dinámicos**: Los gráficos se generan de manera interactiva utilizando la biblioteca **Plotly**.
 - **Aplicación accesible públicamente**: Se puede implementar en la nube con Render para acceso universal.
 
+# Puedes acceder a la aplicación desplegada aquí:  
+https://proyecto-7-tripleten-1.onrender.com
+
+
 
 
